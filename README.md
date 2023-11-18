@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Lyricsdb1
 - 👀 I’m interested in digital marketing
 - 🌱 I’m currently learning some new languages and about backlinks
-- 💞️ I’m looking to collaborate on python or other languages
+- 💞️ I’m looking to collaborate on python or other languages.
 - 📫 How to reach me = You can reach me at [Lyricsdb]([url](https://lyricsdb.org/))
 
 <!---
